@@ -9,7 +9,7 @@ name, email id, and password
 + Babel(transcompiler) is used to help browser understand JSX
 + Used React-Router to make single-page application
  <div align="center">
-  <img alt="Demo" src="./Assets/chatify.png" />
+  <img alt="Demo" src="Asset.png" />
 </div>
 # Getting Started with Create React App
 
