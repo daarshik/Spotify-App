@@ -1,3 +1,9 @@
+<div align="center">
+  <img alt="Demo" src="Asset.png" />
+</div>
+
+
+
 # Spotify-app
 + Built a project to visualize personalized Spotify data. Built with ReactJS, Styled
 Components.
@@ -8,9 +14,7 @@ name, email id, and password
 + Used useMemo to handle expensive functions call
 + Babel(transcompiler) is used to help browser understand JSX
 + Used React-Router to make single-page application
- <div align="center">
-  <img alt="Demo" src="Asset.png" />
-</div>
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
