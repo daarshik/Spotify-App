@@ -5,8 +5,7 @@
 
 
 # Spotify-app
-+ Built a project to visualize personalized Spotify data. Built with ReactJS, Styled
-Components.
++ Built with ReactJS, Styled Components.
 + OAuth(authorization protocol) is used to allow authenticated access to data without sharing the credentials like
 name, email id, and password
 + Used useState to handle state-change
