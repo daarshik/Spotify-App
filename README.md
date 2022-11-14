@@ -10,4 +10,4 @@ name, email id, and password
 + Used React-Router to make single-page application
 +<div align="center">
 +  <img alt="Demo" src="./Assets/chatify.png" />
-+</div>
+</div>
